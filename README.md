@@ -11,7 +11,7 @@
 		"- 🌱 I’m currently learning":       C#
 		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
 		"- 💬 Ask me about":                  C#, 
-		"- 📫 How to reach me:":              "https://github.com/Jelev123
+		
 	}
 }
 
