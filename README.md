@@ -19,7 +19,6 @@
 
 <table>
   <tbody>
-    <tr valign="top">
       <td 
       </td>
       <td width="25%" align="center">
