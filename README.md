@@ -26,18 +26,7 @@
         <span>𝗖#</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/c-sharp.svg">
       </td>
-      <td
-      </td>
-      <td 
-      </td>
-    </tr>
-    <tr valign="top">
-      <td
-      </td>
-      <td 
-      </td>
-      <td 
-      </td>
+     
     </tr>
   </tbody>
 </table>
