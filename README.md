@@ -14,6 +14,13 @@
 ## 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
 <img src="https://img.icons8.com/color/48/000000/visual-studio.png"/></a>
 <a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
+
+<div align="center">
+	<br>
+	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
+	<br>
+    	<img src="https://bingimages.herokuapp.com/unsplash1" width="100" height="100">
+</div>
  
 
 
