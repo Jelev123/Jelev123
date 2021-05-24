@@ -2,7 +2,6 @@
 ## 📫 How to reach me: 
 [![Facebook](http://i.imgur.com/fep1WsG.png) Facebook](https://www.facebook.com/julien.jelev.5)
  [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/Jelev123)
-  [![Gmail Badge](https://img.shields.io/badge/-julienjelev2@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:julienjelev2@gmail.com)](mailto:julienjelev2@gmail.com)
   <a href="mailto:julienjelev2@gmail.com"><img alt="Gmail" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/google-gmail.svg" title="Email" width="100" height="30" /></a>
 
 # Zhulien Zhelev
