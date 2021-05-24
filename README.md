@@ -2,6 +2,7 @@
 ## 📫 How to reach me: 
 [![Facebook](http://i.imgur.com/fep1WsG.png) Facebook](https://www.facebook.com/julien.jelev.5)
  [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/Jelev123)
+  [![Gmail Badge](https://img.shields.io/badge/-julienjelev2@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:julienjelev2@gmail.com)](mailto:julienjelev2@gmail.com)
 
 # Zhulien Zhelev
 
