@@ -12,9 +12,7 @@
 ## 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
 <img src="https://img.icons8.com/color/48/000000/visual-studio.png"/></a>
 <a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
- <code><img title="C#" height="45" 
-  <code><img title=".NetCore" height="40"
-
+ 
 
 
   
