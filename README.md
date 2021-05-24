@@ -19,11 +19,12 @@
 ## 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
 
 
-<a src="https://visualstudio.microsoft.com/"><img src="https://img.icons8.com/color/48/000000/visual-studio.png"/></a>
+
 <table>
   <tbody>
       <td width="25%" align="center">
         <span>𝗖#</span><br><br><br>
+	      <a src="https://visualstudio.microsoft.com/"><img src="https://img.icons8.com/color/48/000000/visual-studio.png"/></a>
         <img height="64px" src="https://cdn.svgporn.com/logos/c-sharp.svg">
       </td>
   </tbody>
