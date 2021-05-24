@@ -20,15 +20,27 @@
 <table>
   <tbody>
     <tr valign="top">
-     
+      <td 
+      </td>
       <td width="25%" align="center">
         <span>𝗖#</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/c-sharp.svg">
       </td>
-     
+      <td
+      </td>
+      <td 
+      </td>
+    </tr>
+    <tr valign="top">
+      <td
+      </td>
+      <td 
+      </td>
+      <td 
+      </td>
+    </tr>
   </tbody>
 </table>
-
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 
 
