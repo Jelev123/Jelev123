@@ -17,8 +17,7 @@
 
 ## 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
 
-<table>
-  <tbody>
+
       <td width="25%" align="center">
         <span>𝗖#</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/c-sharp.svg">
