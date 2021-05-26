@@ -14,7 +14,7 @@
 <a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
 </br></br>
   <h2>💻 Some stats 💻</h2>                                                                                                                            
-<img width="55%" align="left" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true" />
+<img width="55%" align="left" src="https://github-readme-stats.vercel.app/api?jelev123=anuraghazra&theme=dark&show_icons=true" />
 	
 
     	
