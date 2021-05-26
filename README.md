@@ -16,11 +16,6 @@
 <img src="https://img.icons8.com/color/48/000000/visual-studio.png"/></a>
 <a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
 
-<div align="top">
-	<br>
-	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="50" height="50">
-	<br>
-	
 </br></br>
 <h2>💻 Some stats 💻</h2>
 
