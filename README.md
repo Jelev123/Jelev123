@@ -3,10 +3,10 @@
 
 <p align="top">
 <img align="middle" src="https://media.giphy.com/media/26AHqZycSplGWWPAI/giphy.gif" width="250" height="200" />
-</p>
-</br></br>
+</p>  </br></br>
 <h2>💻 Some stats 💻</h2>
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=jelev123&show_icons=true&hide_border=true" />
+
 
 
 ## 📫 How to reach me: 
