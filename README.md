@@ -20,5 +20,7 @@
 	<br>
 	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="50" height="50">
 	<br>
+	
+	github-readme-stats-p1y9ea1xw-jelev123.vercel.app
     	
 
