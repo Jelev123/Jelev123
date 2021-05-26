@@ -4,6 +4,10 @@
 <p align="top">
 <img align="middle" src="https://media.giphy.com/media/26AHqZycSplGWWPAI/giphy.gif" width="250" height="200" />
 </p>
+</br></br>
+<h2>💻 Some stats 💻</h2>
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=jelev123&show_icons=true&hide_border=true" />
+
 
 ## 📫 How to reach me: 
 [![Facebook](http://i.imgur.com/fep1WsG.png) Facebook](https://www.facebook.com/julien.jelev.5)
@@ -15,9 +19,6 @@
 ## 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
 <img src="https://img.icons8.com/color/48/000000/visual-studio.png"/></a>
 <a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
-</br></br>
-<h2>💻 Some stats 💻</h2>
-<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=jelev123&show_icons=true&hide_border=true" />
 
 
 	
