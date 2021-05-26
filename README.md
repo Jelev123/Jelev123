@@ -15,10 +15,8 @@
 ## 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
 <img src="https://img.icons8.com/color/48/000000/visual-studio.png"/></a>
 <a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
-
 </br></br>
 <h2>💻 Some stats 💻</h2>
-
 <img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=jelev123&show_icons=true&hide_border=true" />
 
 
