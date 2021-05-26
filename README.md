@@ -24,7 +24,7 @@
 </br></br>
 <h2>💻 Some stats 💻</h2>
 
-https://github-readme-stats-p1y9ea1xw-jelev123.vercel.app/api?username=jelev123&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=jelev123&show_icons=true&hide_border=true" />
 
 
 	
