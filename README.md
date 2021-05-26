@@ -21,10 +21,11 @@
 	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="50" height="50">
 	<br>
 	
-	</br></br>
+</br></br>
 <h2>💻 Some stats 💻</h2>
 
-![Reeveng's github stats](https://github-readme-stats-jelev123.vercel.appusername=Jelev123&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+(https://github-readme-stats-p1y9ea1xw-jelev123.vercel.app/api?username=jelev123&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
 
 	
 
