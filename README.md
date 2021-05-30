@@ -1,10 +1,28 @@
+<h4> Hello World! <div align="top"> <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h4> 
+ <h5> <img align="middle" src="https://media.giphy.com/media/26AHqZycSplGWWPAI/giphy.gif" width="250" height="200" /> <h5>
 
-  <h2>💻 Some stats 💻</h2>                                                                                                                            
+<h4>📫 How to reach me:<h4>
+  
+[![Facebook](http://i.imgur.com/fep1WsG.png) Facebook](https://www.facebook.com/julien.jelev.5)
+ [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/Jelev123)
+  <a href="mailto:julienjelev2@gmail.com">
+    <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+  </a>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jelev123)](https://github.com/jelev123/github-readme-stats)
+  <h3>💻 Some stats 💻</h3>                                                                                                                            
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jelev123)](https://github.com/jelev123/github-readme-stats) 
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jelev123&show_icons=true&theme=chartreuse-dark)
 
-<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Facebook</title><path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/></svg>
+  ## 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
+
+<h4> <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/> 
+ <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/> <img alr="Microsoft" src="https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" /> <img alt="Visual Studio" src="https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/> <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/> 
+  <img alt="YouTube" src="https://img.shields.io/badge/<handle>-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/> 
+  <img alt="Discord" src="https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/> 
+  <img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/> <h4>
+ 
