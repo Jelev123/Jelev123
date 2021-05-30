@@ -3,7 +3,7 @@
 <img align="middle" src="https://media.giphy.com/media/26AHqZycSplGWWPAI/giphy.gif" width="250" height="200" />
 	
 ## 📫 How to reach me: 
-[![Facebook](http://i.imgur.com/fep1WsG.png) Facebook](https://www.facebook.com/julien.jelev.5)
+https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white Facebook](https://www.facebook.com/julien.jelev.5)
  [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/Jelev123)
   <a href="mailto:julienjelev2@gmail.com">
     <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
@@ -18,4 +18,4 @@
 	
 
     	
-https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
+
