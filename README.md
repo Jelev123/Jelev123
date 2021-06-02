@@ -1,6 +1,14 @@
 <h4> Hello World! <div align="top"> <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h4> 
  <h5> <img align="right" src="https://media.giphy.com/media/26AHqZycSplGWWPAI/giphy.gif" width="250" height="250" /> <h5>
   
+  <h4>📫 How to reach me:<h4>
+  
+[![Facebook](http://i.imgur.com/fep1WsG.png) Facebook](https://www.facebook.com/julien.jelev.5)
+ [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/Jelev123)
+  <a href="mailto:julienjelev2@gmail.com">
+    <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+  </a>
+  
   
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jelev123&show_icons=true&theme=tokyonight)
   
