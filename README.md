@@ -1,5 +1,5 @@
 <h4> Hello World! <div align="top"> <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h4> 
- <h5> <img align="right" src="https://media.giphy.com/media/26AHqZycSplGWWPAI/giphy.gif" width="450" height="300" /> <h5>
+ <h5> <img align="right" src="https://media.giphy.com/media/26AHqZycSplGWWPAI/giphy.gif" width="100" height="300" /> <h5>
   
   
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jelev123&show_icons=true&theme=tokyonight)
