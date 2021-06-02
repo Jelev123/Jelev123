@@ -1,4 +1,4 @@
-<h4> Hello World! <div align="top"> <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="50px"></h4> 
+<h1> Hello World! </h1> 
  <h5> <img align="right" src="https://media.giphy.com/media/26AHqZycSplGWWPAI/giphy.gif" width="250" height="250" /> <h5>
   
   
