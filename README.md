@@ -18,7 +18,11 @@
   <img alt="Discord" src="https://img.shields.io/badge/-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/> 
   <img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/> <h4>
    
+  <a href="#"><img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200 " height="200" /></a>
+   
+   
    ![](https://github.com/mscoutermarsh/mscoutermarsh/blob/master/teeter.gif?raw=true)
+   
    
 
  
