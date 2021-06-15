@@ -9,10 +9,7 @@
   
   
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jelev123&show_icons=true&theme=tokyonight)
-  
- ![](https://github.com/mscoutermarsh/mscoutermarsh/blob/master/teeter.gif?raw=true)
-  
-  
+ 
 <h2> What I Use </h2> 
   
   <h4> <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/> 
@@ -20,6 +17,8 @@
   <img alt="YouTube" src="https://img.shields.io/badge/-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/> 
   <img alt="Discord" src="https://img.shields.io/badge/-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/> 
   <img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/> <h4>
+   
+   ![](https://github.com/mscoutermarsh/mscoutermarsh/blob/master/teeter.gif?raw=true)
    
 
  
