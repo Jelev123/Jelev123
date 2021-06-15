@@ -1,6 +1,6 @@
-<h1> Hello World! </h1> 
+<h1> Hello World! </h1>    
  <h5> <img align="right" src="https://media.giphy.com/media/26AHqZycSplGWWPAI/giphy.gif" width="250" height="250" /> <h5>
-  
+   
   [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style)](https://www.facebook.com/julien.jelev.5)
  [![GitHub](https://img.shields.io/badge/github-%23121011.svg) ](https://github.com/Jelev123)
  <a href="mailto:julienjelev2@gmail.com">
@@ -10,6 +10,8 @@
   
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jelev123&show_icons=true&theme=tokyonight)
   
+ ![](https://github.com/mscoutermarsh/mscoutermarsh/blob/master/teeter.gif?raw=true)
+  
   
 <h2> What I Use </h2> 
   
@@ -18,6 +20,8 @@
   <img alt="YouTube" src="https://img.shields.io/badge/-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/> 
   <img alt="Discord" src="https://img.shields.io/badge/-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/> 
   <img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/> <h4>
+   
+
  
 
 
