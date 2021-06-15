@@ -1,13 +1,20 @@
 <h1> Hello World! </h1>    
- <h5> <img align="right" src="https://media.giphy.com/media/26AHqZycSplGWWPAI/giphy.gif" width="250" height="250" /> <h5>
-   
-  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style)](https://www.facebook.com/julien.jelev.5)
- [![GitHub](https://img.shields.io/badge/github-%23121011.svg) ](https://github.com/Jelev123)
- <a href="mailto:julienjelev2@gmail.com">
+
+- 🔭 I’m currently working on my stuff
+
+- 👯 I’m looking to collaborate on **anything free and open source**
+
+- 👨‍💻 All of my projects are available at [https://github.com/jelev123](https://github.com/Jelev123/Soft-Uni)
+
+- 🧠 I am currently learning C# in https://softuni.bg/
+
+- 📫 How to reach me :
+-  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style)](https://www.facebook.com/julien.jelev.5) [![GitHub](https://img.shields.io/badge/github-%23121011.svg) ](https://github.com/Jelev123)  <a href="mailto:julienjelev2@gmail.com">
     <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a> <h3>
-  
-  
+
+ <h5> <img align="right" src="https://media.giphy.com/media/26AHqZycSplGWWPAI/giphy.gif" width="250" height="250" /> <h5>
+   
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jelev123&show_icons=true&theme=tokyonight)
  
 <h2> What I Use </h2> 
