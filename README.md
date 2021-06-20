@@ -8,7 +8,7 @@
                     <a href="mailto:julienjelev2@gmail.com">
     <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a> <h3> 
- <h1> _________________________________</h1> 
+ <h1> ____________________________</h1> 
 
 
 <h4> - 🔭 I’m currently working on my stuff
