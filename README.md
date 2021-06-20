@@ -1,4 +1,4 @@
- <img align="right" src="https://media.giphy.com/media/26AHqZycSplGWWPAI/giphy.gif" width="300" height="300" /> 
+ <img align="right" src="https://media.giphy.com/media/26AHqZycSplGWWPAI/giphy.gif" width="400" height="400" /> 
 
 <h1> Hello World! </h1>     
 
