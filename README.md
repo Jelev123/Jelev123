@@ -19,7 +19,7 @@
 
 - 🧠 I am currently learning C# in https://softuni.bg/ </h4>     
 
-<h1> _________________________________</h1> 
+ <h1> ____________________________</h1> 
 
    <a href="https://github.com/jelev123/jelev123">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jelev123&hide=c%2B%2B,c,matlab,assembly&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e"  />
