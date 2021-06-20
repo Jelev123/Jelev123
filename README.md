@@ -1,4 +1,4 @@
-<h1> Hello World! </h1>      
+<h1> Hello World! </h1>      <img align="right" src="https://media.giphy.com/media/26AHqZycSplGWWPAI/giphy.gif" width="300" height="300" /> 
 
 
 - 🔭 I’m currently working on my stuff
@@ -17,7 +17,7 @@
   </a> <h3>
   
 
-  <img align="right" src="https://media.giphy.com/media/26AHqZycSplGWWPAI/giphy.gif" width="300" height="300" /> 
+  
    <a href="https://github.com/jelev123/jelev123">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jelev123&hide=c%2B%2B,c,matlab,assembly&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e"  />
 </a>
