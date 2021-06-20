@@ -2,13 +2,13 @@
  
 
 <h1> Hello World! </h1> 
-  <h4> - 🔭 I’m currently working on my stuff
+  <h3> - 🔭 I’m currently working on my stuff
 
 - 👯 I’m looking to collaborate on **anything free and open source**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jelev123](https://github.com/Jelev123/Soft-Uni) 
 
-- 🧠 I am currently learning C# in https://softuni.bg/ </h4>           <a href="mailto:julienjelev2@gmail.com">
+- 🧠 I am currently learning C# in https://softuni.bg/ </h3>           <a href="mailto:julienjelev2@gmail.com">
     <img align="botton" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a> 
  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style)](https://www.facebook.com/julien.jelev.5) 
