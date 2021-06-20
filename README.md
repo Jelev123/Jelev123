@@ -2,7 +2,7 @@
 
 <h1> Hello World! </h1> 
                            
-<h3> How to reachd me </h3>
+<h2> How to reachd me </h2>
 
   [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style)](https://www.facebook.com/julien.jelev.5) 
                     <a href="mailto:julienjelev2@gmail.com">
