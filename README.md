@@ -2,13 +2,14 @@
 
 <h1> Hello World! </h1>     
 
-- 🔭 I’m currently working on my stuff
+<h3> - 🔭 I’m currently working on my stuff
 
 - 👯 I’m looking to collaborate on **anything free and open source**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jelev123](https://github.com/Jelev123/Soft-Uni) 
 
-- 🧠 I am currently learning C# in https://softuni.bg/
+- 🧠 I am currently learning C# in https://softuni.bg/ </h3>     
+
 
 
 - 📫 How to reach me : 
