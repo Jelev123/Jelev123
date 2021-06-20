@@ -1,25 +1,18 @@
 <h5> <img align="left" src="https://media.giphy.com/media/26AHqZycSplGWWPAI/giphy.gif" width="250" height="250" /> <h5>
+ 
 
 <h1> Hello World! </h1> 
-                           
-<h2> How to reachd me </h2>
-
-  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style)](https://www.facebook.com/julien.jelev.5) 
-                    <a href="mailto:julienjelev2@gmail.com">
-    <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
-  </a> <h3> 
- <h1> ________________________________________</h1> 
-
-
-<h4> - 🔭 I’m currently working on my stuff
+  <h4> - 🔭 I’m currently working on my stuff
 
 - 👯 I’m looking to collaborate on **anything free and open source**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jelev123](https://github.com/Jelev123/Soft-Uni) 
 
-- 🧠 I am currently learning C# in https://softuni.bg/ </h4>     
-
- <h1> _________________________________________</h1> 
+- 🧠 I am currently learning C# in https://softuni.bg/ </h4>                              
+  <a href="mailto:julienjelev2@gmail.com">
+    <img align="botton" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+  </a> 
+ [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style)](https://www.facebook.com/julien.jelev.5) 
 
    <a href="https://github.com/jelev123/jelev123">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jelev123&hide=c%2B%2B,c,matlab,assembly&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e"  />
