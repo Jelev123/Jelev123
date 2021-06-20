@@ -26,7 +26,7 @@
 </a>
    
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jelev123&show_icons=true&theme=tokyonight) 
-<h1> ___________________________________________________________________________</h1> 
+<h1> ________________________________________________________________________</h1> 
  
 <h2> What I Use </h2>
 
