@@ -1,14 +1,15 @@
  <img align="right" src="https://media.giphy.com/media/26AHqZycSplGWWPAI/giphy.gif" width="500" height="500" /> 
 
 <h1> Hello World! </h1> 
-                            
+                           
 <h3> How to reachd me </h3>
 
   [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style)](https://www.facebook.com/julien.jelev.5) 
                     <a href="mailto:julienjelev2@gmail.com">
     <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
-  </a> <h3>
-____________________________________________________________________________
+  </a> <h3> 
+ <h1> _________________________________</h1> 
+
 
 <h4> - 🔭 I’m currently working on my stuff
 
@@ -17,17 +18,15 @@ ____________________________________________________________________________
 - 👨‍💻 All of my projects are available at [https://github.com/jelev123](https://github.com/Jelev123/Soft-Uni) 
 
 - 🧠 I am currently learning C# in https://softuni.bg/ </h4>     
-----------------------------
- ---------------------------
 
+<h1> _________________________________</h1> 
 
-
-  
    <a href="https://github.com/jelev123/jelev123">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jelev123&hide=c%2B%2B,c,matlab,assembly&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e"  />
 </a>
    
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jelev123&show_icons=true&theme=tokyonight) 
+<h1> ________________________________________________________</h1> 
  
 <h2> What I Use </h2>
 
