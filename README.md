@@ -1,4 +1,4 @@
- <h2> <img align="top" src="https://media.giphy.com/media/26AHqZycSplGWWPAI/giphy.gif" width="250" height="250" /> <h2>
+ <h2> <img align="left" src="https://media.giphy.com/media/26AHqZycSplGWWPAI/giphy.gif" width="250" height="250" /> <h2>
  
 
  
