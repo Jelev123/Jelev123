@@ -9,7 +9,6 @@
  
  🔭 I’m currently working on my stuff
    
- 👨‍💻 All of my projects are available at [https://github.com/jelev123](https://github.com/Jelev123/Soft-Uni) 
    
  🧠 I am currently learning C# in https://softuni.bg/ </h3>           <a href="mailto:julienjelev2@gmail.com">
     <img align="botton" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
