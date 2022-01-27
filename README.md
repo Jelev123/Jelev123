@@ -10,7 +10,8 @@
  🔭 I’m currently working on my stuff
    
    
- 🧠 I am currently learning C# in https://softuni.bg/ </h3>           <a href="mailto:julienjelev2@gmail.com">
+   
+ 🧠 I am currently learning ASP.NET in https://softuni.bg/ </h3>           <a href="mailto:julienjelev2@gmail.com">
     <img align="botton" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a> 
  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style)](https://www.facebook.com/julien.jelev.5) 
