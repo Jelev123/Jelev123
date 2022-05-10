@@ -1,30 +1,20 @@
- <h2> <img align="left" src="https://media.giphy.com/media/26AHqZycSplGWWPAI/giphy.gif" width="250" height="250" /> <h2>
- 
+ <h2> <img align="left" src="https://media.giphy.com/media/26AHqZycSplGWWPAI/giphy.gif" width="200" height="250" /> <h2>
 
- 
- 
- 
-<h1> Hello World! </h1> 
-  <h3> 
- 
- 🔭 I’m currently working on my Project >> Coming Soon
-   
-   
-   
+<h1> Hello World! </h1>
+ <h1>
          <a href="mailto:julienjelev2@gmail.com">
     <img align="botton" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a> 
- [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style)](https://www.facebook.com/julien.jelev.5) 
+ </h1> 
+ 
+ <a>[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style)](https://www.facebook.com/julien.jelev.5)</a> 
                     
-
- 
-
- 
-  <h4> <a href="https://github.com/jelev123/jelev123">
+  <h4 href="https://github.com/jelev123/jelev123">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jelev123&hide=c%2B%2B,c,matlab,assembly&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e"  />
-</a> <h4>
+</h4>
    
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jelev123&show_icons=true&theme=tokyonight)
+  
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jelev123&show_icons=true&theme=tokyonight) 
 
 <h2> What I Use </h2>
   <h6> <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/> 
@@ -35,19 +25,3 @@
 
 
   
- 
-
-
- 
-
-
-
-
-                                                                                                                          
-
-
-
-
-
-
-
