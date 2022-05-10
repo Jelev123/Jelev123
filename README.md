@@ -9,9 +9,9 @@
  
  <a>[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style)](https://www.facebook.com/julien.jelev.5)</a> 
                     
-  <h4 href="https://github.com/jelev123/jelev123">
+  <a href="https://github.com/jelev123/jelev123">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jelev123&hide=c%2B%2B,c,matlab,assembly&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e"  />
-</h4>
+</a>
    
   
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jelev123&show_icons=true&theme=tokyonight) 
