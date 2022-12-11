@@ -9,7 +9,6 @@
  [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/julien-jelev-0ba1a521a)
 
   <h1>
-<h1>  </h1> 
    
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jelev123&show_icons=true&theme=tokyonight) 
 <a href="https://github.com/jelev123/jelev123">
