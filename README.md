@@ -1,7 +1,7 @@
 <h2> <img align="left" src="https://media.giphy.com/media/26AHqZycSplGWWPAI/giphy.gif" width="300" height="300" />Hello World!</h2>
 <h2></h2>
 <h2></h2>
-  <h2>
+  <h2> 
   <a href="mailto:julienjelev2@gmail.com">
     <img align="botton" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a> 
