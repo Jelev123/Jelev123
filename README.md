@@ -9,7 +9,6 @@
  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style)](https://www.facebook.com/julien.jelev.5)  
  [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/julien-jelev-0ba1a521a)
   <h2>
-
 <h1></h1>
 
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jelev123&show_icons=true&theme=tokyonight) 
