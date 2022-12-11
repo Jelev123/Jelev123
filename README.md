@@ -1,15 +1,15 @@
 <h1> <img align="left" src="https://media.giphy.com/media/26AHqZycSplGWWPAI/giphy.gif" width="300" height="300" />Hello World!
 <h1></h1>
-
-  <h1>          <a href="mailto:julienjelev2@gmail.com">
+<h1></h1>
+  
+  <a href="mailto:julienjelev2@gmail.com">
     <img align="botton" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a> 
-
+    
  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style)](https://www.facebook.com/julien.jelev.5)  
  [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/julien-jelev-0ba1a521a)
-<h1></h1>
  
-<h1></h1>
+
 <h1></h1>
 
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jelev123&show_icons=true&theme=tokyonight) 
