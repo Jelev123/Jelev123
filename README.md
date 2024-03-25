@@ -1,13 +1,6 @@
-<h1> <img align="left" src="https://media.giphy.com/media/26AHqZycSplGWWPAI/giphy.gif" width="300" height="334" />Hello World!</h1>
-<h1></h1>
-<h1></h1>
-<h1></h1>
-<h1></h1>
-<h1></h1>
-<h1></h1>
-<h1></h1>
-<h1></h1>
-<h1></h1>
+## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+ <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+
 
 
 <h3> What I Use </h3>
@@ -25,6 +18,9 @@
    <h4>
      <h1></h1>
      <h1></h1>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jelev123&theme=tokyonight)
+     
 <h3> Contacts</h3>
      
 <a href="mailto:julienjelev2@gmail.com">
@@ -33,3 +29,4 @@
     
  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style)](https://www.facebook.com/julien.jelev.5)  
  [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/zhulien-zhelev-0ba1a521a/)
+
